@@ -92,6 +92,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/NikhilKhatri1/NikhilKhatri1/output/snake.svg" alt="Snake animation" />
+<img src="./.github/workflow/snake.svg" alt="Snake animation" />
 
 ###
