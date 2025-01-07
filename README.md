@@ -92,6 +92,6 @@
 
 <br clear="both">
 
-<img src=".github/workflow/snake.svg" alt="Snake animation" />
+<img src=".github/workflows/snake.svg" alt="Snake animation" />
 
 ###
