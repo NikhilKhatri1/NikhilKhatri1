@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Nikhil Khatri 👨‍💻, a passionate MERN stack developer 🚀. Ready to build complete applications 💻 and collaborate 🤝! Contact me at <a href='nikkhatri311@gmail.com'>Gmail</a> 📧.</p>
+<p align="left">Hi, I'm Nikhil Khatri 👨‍💻, a passionate MERN stack developer 🚀. Ready to build complete applications 💻 and collaborate 🤝! Contact me at nikkhatri311@gmail.com 📧.</p>
 
 ###
 
@@ -79,8 +79,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NikhilKhatri1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=false&order=1" height="110" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilKhatri1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=tokyonight&hide_border=false&order=2" height="92" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=NikhilKhatri1&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilKhatri1&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/NikhilKhatri1/NikhilKhatri1/output/snake.svg" alt="Snake animation" />
 
 ###
