@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Nikhil Khatri 👨‍💻, a passionate MERN stack developer 🚀. Ready to build complete applications 💻 and collaborate 🤝! Contact me at nikkhatri311@gmail.com 📧.</p>
+<p align="left">Hi, I'm Nikhil Khatri 👨‍💻, a passionate MERN stack developer 🚀. Ready to build complete applications 💻 and collaborate 🤝! Contact me at <a href=''>nikkhatri311@gmail.com</a> 📧.</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Let's Get Started<br>📚 Currently Creating Ai Based ChatApp<br>🎯 Aim to Become Better<br>🎲 Fun fact: Fun fact: I code by day 💻 and dream up new app ideas by night 🌙. Always ready for the next challenge! 🚀</p>
+<p align="left">✨Checkout My Major Project 
+  <a href='https://doctor-appointment-app-frontend-i9ra.onrender.com/'>Doctor Appointment App</a> 
+  <br>📚🤝 I’m looking for help with [React, Node JS]
+  <br>🌱 I’m currently learning TypeScript<br>
+  <br> 📫 How to reach me <a href="https://mail.google.com">nikkhatri311@gmail.com</a><br>
+  <br> 👨‍💻 All of my projects are available at <a href='https://mernstacknikhilkhatri-porfolio.netlify.app/'>My Portfolio</a><br>
+  🎲 Fun fact:  🚀</p>
 
 ###
 
